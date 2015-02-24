@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.davnetwork.cercidf" version="1.0.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.davnetwork.webapp" version="1.0.0.0">
 
-	<name>CERC IDF</name>
-	<description>CERC IDF</description>
+	<name>webapp</name>
+	<description>webapp</description>
 	<author href="http://davnetwork.com" email="contact@davnetwork.com">davnetwork</author>
 
 	<icon src="icon-128.png" width="128" height="128" />
